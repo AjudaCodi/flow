@@ -1,0 +1,8 @@
+# use vim
+*.swp
+
+# my dirty file
+b
+
+# the standard output on compiling c
+a.out
